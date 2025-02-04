@@ -1,0 +1,154 @@
+## Section 5: Reference List Formatting  
+
+### Page 21: Introduction to Reference List Formatting  
+
+The reference list is a crucial part of any APA-formatted paper. It provides full bibliographic information for every source cited in the text, allowing readers to locate and verify those sources. Unlike in-text citations, which briefly identify sources, the reference list offers complete details about each work.  
+
+A properly formatted reference list should:  
+
+- Appear **on a new page** at the end of the document  
+- Be titled **References** (bolded and centered)  
+- Include all sources cited in the paper (and no additional sources)  
+- Be **alphabetized** by the last name of the first author  
+- Use **hanging indentation**, where the first line of each reference is flush left, and subsequent lines are indented by 0.5 inches  
+- Be **double-spaced** with no extra spaces between entries  
+
+This section will cover the structure of an APA reference list, the proper formatting of different source types, and common citation mistakes.  
+
+### Page 22: General Formatting Rules for the Reference List  
+
+#### Basic Structure of a Reference Entry  
+
+Most reference entries in APA Style follow this structure:  
+
+**Author(s). (Year). Title of the work. Source (Publisher, Journal Name, Website). URL or DOI**  
+
+#### Example of a Journal Article Reference  
+
+**Smith, J. A. (2020). The effects of sleep deprivation on cognitive performance. *Journal of Behavioral Neuroscience, 12*(3), 45–62. https://doi.org/10.xxxxx**  
+
+#### Example of a Book Reference  
+
+**Brown, T. R. (2018). *The psychology of learning and memory.* Academic Press.**  
+
+#### Example of a Website Reference  
+
+**Centers for Disease Control and Prevention. (2021). Managing stress during the pandemic. https://www.cdc.gov/stress-pandemic**  
+
+#### Alphabetization Rules  
+
+- References should be **arranged alphabetically** by the last name of the first author.  
+- If two sources have the **same author**, order them by publication year (earliest first).  
+- If two sources have **identical authors and years**, add a lowercase letter to differentiate them (e.g., 2020a, 2020b).  
+
+Example:  
+
+**Jones, R. (2020a). Social media and mental health. Oxford University Press.**  
+**Jones, R. (2020b). The impact of technology on relationships. Cambridge University Press.**  
+
+#### Common Practice vs. Valid APA Formatting  
+
+- **Common Practice:** Many students forget to use hanging indentation, resulting in misaligned references.  
+- **Valid but Less Common:** APA allows minor stylistic variations in reference lists as long as consistency is maintained.  
+
+### Page 23: Formatting Different Types of References  
+
+#### Journal Articles  
+
+**Format:**  
+**Author, A. A. (Year). Title of the article. *Title of the Journal, Volume*(Issue), Page range. DOI or URL**  
+
+**Examples:**  
+
+- One author:  
+  **Garcia, M. L. (2019). The role of motivation in academic success. *Journal of Educational Psychology, 25*(2), 112–128. https://doi.org/10.1234**  
+
+- Multiple authors:  
+  **Taylor, B. A., & Lee, J. H. (2021). Online learning strategies for college students. *Higher Education Review, 18*(4), 214–230. https://doi.org/10.5678**  
+
+- More than 20 authors:  
+  List the first 19 authors, then use an ellipsis before the last author.  
+  **Johnson, R. A., Smith, K. B., ... Thompson, L. (2020). Cognitive development in early childhood. *Developmental Science, 15*(1), 89–104. https://doi.org/10.9876**  
+
+#### Books  
+
+**Format:**  
+**Author, A. A. (Year). *Title of the book.* Publisher.**  
+
+**Examples:**  
+
+- One author:  
+  **Miller, S. R. (2020). *Introduction to behavioral psychology.* Academic Press.**  
+
+- Two authors:  
+  **Nelson, R. T., & Carter, J. P. (2018). *The history of cognitive neuroscience.* Springer.**  
+
+- Edited book:  
+  **Jones, L. R. (Ed.). (2015). *Advances in psychological research.* Wiley.**  
+
+#### Websites  
+
+**Format:**  
+**Author or Organization. (Year). Title of the webpage. URL**  
+
+**Examples:**  
+
+- Individual author:  
+  **Smith, J. (2021). How to improve study habits. https://www.example.com/study-tips**  
+
+- Organization as author:  
+  **World Health Organization. (2020). Global health trends. https://www.who.int/global-trends**  
+
+#### Common Practice vs. Valid APA Formatting  
+
+- **Common Practice:** Students often copy URLs without formatting them properly.  
+- **Valid but Less Common:** APA allows URLs to be hyperlinked but prefers them to remain plain text in academic writing.  
+
+### Page 24: Handling Special Cases in References  
+
+#### Missing Information  
+
+If any information is missing, follow these APA guidelines:  
+
+- **No author:** Use the title in place of the author.  
+  - *(Managing Anxiety, 2019).  
+  - **Managing anxiety. (2019). https://www.example.com**  
+
+- **No date:** Use (n.d.) in place of the year.  
+  - **Taylor, K. (n.d.). The importance of nutrition. https://www.health.org**  
+
+- **No page numbers:** Use paragraph numbers or section headings for online sources.  
+  - *(Brown, 2021, para. 4).*  
+
+#### Citing Secondary Sources  
+
+If an author quotes another author, cite the original source if possible. If not, use a secondary source citation.  
+
+Example:  
+**Smith (2015) found that memory retention improves with practice (as cited in Johnson, 2020).**  
+
+### Page 25: Common Errors and Final Tips  
+
+#### Common Errors in Reference Lists  
+
+- **Incorrect hanging indentation:** References should have a 0.5-inch indent on the second and subsequent lines.  
+- **Improper capitalization:** Only the first word of titles and subtitles should be capitalized, except for proper nouns.  
+- **Incorrect author formatting:** Always list authors in **Last name, First initial.** format.  
+- **Missing DOIs or URLs:** If available, always include a DOI or stable URL.  
+
+#### Final Checklist for Reference Lists  
+
+- Is the **title "References" bolded and centered**?  
+- Are references **alphabetized** by the first author's last name?  
+- Is **hanging indentation** applied correctly?  
+- Is the **format for each source type correct**?  
+- Are **URLs and DOIs properly formatted**?  
+- Is the **reference list double-spaced** with no extra spaces between entries?  
+
+By following APA reference list guidelines carefully, students ensure their sources are properly cited, maintaining the credibility and integrity of their academic writing.  
+
+### Summary  
+
+A properly formatted reference list is essential for any APA paper. This section covered the correct formatting of different source types, how to handle missing information, and common citation mistakes. By ensuring accuracy in reference lists, students strengthen the professionalism of their work and make their research accessible to others.  
+
+The next section will focus on **how to cite books, articles, and other materials in detail**, expanding on specific reference examples and addressing more complex citation scenarios.

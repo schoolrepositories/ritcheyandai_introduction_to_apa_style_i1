@@ -1,0 +1,69 @@
+#### In-Text Citation  
+
+A brief reference within the body of a paper that directs readers to the full citation in the reference list. In-text citations include the author's last name and the year of publication, such as (Smith, 2020), and a page number if quoting directly.  
+
+#### Reference List  
+
+A section at the end of an APA paper that provides full citation details for all sources cited in the text. Entries are listed alphabetically by the author’s last name and formatted with a hanging indent.  
+
+#### DOI (Digital Object Identifier)  
+
+A unique alphanumeric string assigned to digital publications, such as journal articles and eBooks, that provides a permanent link to the source. APA Style requires DOIs in reference entries whenever available, formatted as **https://doi.org/xxxx**.  
+
+#### Running Head  
+
+A short version of the paper’s title appearing in the header of each page. In APA 7th edition, a running head is **only required for professional papers** and is left-aligned in the header along with the page number.  
+
+#### Parenthetical Citation  
+
+A type of in-text citation where the author’s last name and publication year are placed within parentheses at the end of a sentence, such as (Jones, 2019). This differs from a **narrative citation**, where the author’s name appears naturally in the sentence.  
+
+#### Hanging Indent  
+
+A formatting style where the first line of a reference entry is flush with the left margin, and all subsequent lines are indented 0.5 inches. This format is used for all entries in the reference list.  
+
+#### Abstract  
+
+A concise summary of a research paper, typically **150-250 words**, that provides an overview of the study’s purpose, methods, results, and conclusions. The abstract appears on its own page after the title page.  
+
+#### Keywords  
+
+Important terms listed below an abstract that help categorize a research paper for indexing and searching. Keywords should be relevant to the study's main themes and formatted in **lowercase**, separated by commas.  
+
+#### Secondary Source  
+
+A source that cites another source that the writer did not access directly. In APA, secondary sources should be cited in-text using the phrase **"as cited in"**, but only the secondary source is included in the reference list.  
+
+#### Personal Communication  
+
+A private source, such as an email, interview, or unpublished lecture, that is **not retrievable** by the reader. In APA, personal communications are **cited in-text only** and are not included in the reference list.  
+
+#### Annotated Bibliography  
+
+A list of sources formatted in APA Style, where each reference entry is followed by a **brief summary and evaluation** of the source. Annotated bibliographies help researchers assess the relevance of their sources.  
+
+#### Literature Review  
+
+A comprehensive summary of existing research on a topic, often included as a section of a research paper or as a standalone assignment. Literature reviews synthesize findings from multiple sources to identify patterns, gaps, and research trends.  
+
+#### Plagiarism  
+
+The use of another person’s words, ideas, or research without proper citation. In APA, plagiarism is avoided by correctly paraphrasing and citing all sources of information.  
+
+#### Table and Figure Labels  
+
+Tables and figures in APA must be **numbered consecutively** (e.g., Table 1, Figure 1) and include a **title in italics**. If data is taken from another source, a **citation must be included in a note below the table or figure**.  
+
+#### Narrative Citation  
+
+A type of in-text citation where the author’s name appears naturally in the sentence, followed by the publication year in parentheses. Example: *Smith (2020) found that sleep deprivation reduces cognitive function.*  
+
+#### Bias-Free Language  
+
+A set of APA guidelines ensuring that academic writing is **inclusive and respectful**, avoiding language that may be offensive or discriminatory. This includes using gender-neutral pronouns (e.g., "they" instead of "he or she") and referring to individuals with accurate and appropriate descriptors.  
+
+#### Revised APA Guidelines  
+
+Changes made to APA formatting rules between editions. The **7th edition of APA Style**, for example, introduced updates such as listing **up to 20 authors** in a reference entry and removing the requirement for a **running head in student papers**.  
+
+These terms are essential for students using APA Style in their academic writing, helping them properly cite sources, structure their papers, and maintain ethical research practices.

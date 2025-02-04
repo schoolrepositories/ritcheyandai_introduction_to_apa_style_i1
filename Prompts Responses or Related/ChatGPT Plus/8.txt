@@ -1,0 +1,113 @@
+## Section 2: General Formatting Guidelines  
+
+### Page 6: Overview of APA Formatting  
+
+Proper formatting is an essential part of academic writing, and APA Style provides specific guidelines to ensure consistency across research papers. Formatting in APA Style extends beyond citations and references—it dictates how the entire paper should be structured, from margins and fonts to headings and page numbers.  
+
+These guidelines help ensure that academic writing remains professional, organized, and easy to read. While instructors may sometimes allow minor variations, following APA’s official formatting rules provides a solid foundation for producing high-quality academic papers.  
+
+This section will explore the fundamental formatting requirements of an APA paper, including:  
+
+- Page setup (margins, spacing, fonts, and alignment)  
+- Title page formatting  
+- Running heads and page numbers  
+- Headings and subheadings  
+- Abstracts and keywords  
+
+While APA offers clear rules, certain elements allow for flexibility. As with other APA components, this section will highlight both **common practice** and **valid but less common APA formatting** to help students understand their options.  
+
+### Page 7: Page Setup and Margins  
+
+The first step in formatting an APA paper is setting up the document correctly. APA Style requires specific page settings to ensure uniformity across academic writing.  
+
+- **Paper Size:** APA papers should be formatted for standard **8.5 x 11-inch** paper.  
+- **Margins:** **1-inch margins** should be used on all sides of the page (top, bottom, left, and right).  
+- **Line Spacing:** The entire document should be **double-spaced**, including block quotes and reference lists.  
+- **Paragraph Indentation:** The first line of each paragraph should be indented **0.5 inches** (one tab space).  
+- **Text Alignment:** Text should be **left-aligned**, with a **ragged right margin** (do not justify text).  
+
+#### Common Practice vs. Valid APA Formatting  
+
+- **Common Practice:** Students typically use the default margin and spacing settings in word processors like Microsoft Word or Google Docs.  
+- **Valid but Less Common:** Some instructors allow single-spacing in tables or figures for readability, but this is not standard APA formatting.  
+
+Ensuring that these formatting settings are correct before starting a paper prevents the need for later adjustments.  
+
+### Page 8: Font and Text Formatting  
+
+APA 7th Edition allows for several font choices, though some are more commonly used than others. The goal is to ensure readability across different devices and print formats.  
+
+#### Approved Fonts in APA 7th Edition  
+
+- **Times New Roman, 12-point** (most commonly used)  
+- **Calibri, 11-point**  
+- **Arial, 11-point**  
+- **Georgia, 11-point**  
+- **Lucida Sans Unicode, 10-point**  
+
+While APA allows multiple font choices, **Times New Roman (12-point) remains the most widely accepted option in academic settings**. Students should check with their instructors if they wish to use another approved font.  
+
+#### Common Practice vs. Valid APA Formatting  
+
+- **Common Practice:** Most academic papers use Times New Roman, 12-point font for consistency.  
+- **Valid but Less Common:** Some students prefer using Calibri (11-point) or Arial (11-point) for a modern, clean look, which is allowed but less commonly required by instructors.  
+
+The key takeaway is that APA permits font variation, but some choices may be preferred in specific academic settings.  
+
+### Page 9: Title Page Formatting  
+
+The title page is the first page of an APA-formatted paper and serves as an introduction to the document. APA 7th Edition distinguishes between **student title pages** and **professional title pages** used in journal articles.  
+
+#### Student Title Page Format  
+
+A properly formatted student title page should include the following elements, centered and double-spaced:  
+
+1. **Title of the Paper** (bolded and in title case)  
+2. **Student Name**  
+3. **Institutional Affiliation** (e.g., University Name)  
+4. **Course Name and Number**  
+5. **Instructor Name**  
+6. **Assignment Due Date**  
+
+#### Example of a Student Title Page  
+
+The Effects of Social Media on College Student Performance  
+John Smith  
+University of Example  
+PSY 101: Introduction to Psychology  
+Dr. Jane Doe  
+March 15, 2025  
+
+#### Common Practice vs. Valid APA Formatting  
+
+- **Common Practice:** Most student papers follow this exact format.  
+- **Valid but Less Common:** Some instructors may allow slight modifications, such as omitting the course name or instructor’s name if not required by the institution.  
+
+Students should follow the instructor’s guidelines while ensuring their title page adheres to APA rules.  
+
+### Page 10: Running Heads and Page Numbers  
+
+The **running head** is an element that appears at the top of every page in an APA-formatted document. However, APA 7th Edition has simplified this requirement for student papers.  
+
+#### Running Heads in APA 7th Edition  
+
+- **Student Papers:** Do not require a running head (only a page number in the top-right corner).  
+- **Professional Papers:** Require a running head with the title in uppercase letters, aligned to the left.  
+
+#### Page Numbering Rules  
+
+- Page numbers should be placed in the **top-right corner** of every page.  
+- The title page is considered **page 1**.  
+
+#### Common Practice vs. Valid APA Formatting  
+
+- **Common Practice:** Most student papers omit the running head and only include the page number.  
+- **Valid but Less Common:** Some instructors may still request a running head for consistency with older APA editions.  
+
+By following these guidelines, students ensure their work adheres to APA formatting while understanding where flexibility exists.  
+
+### Summary  
+
+This section covered the fundamental formatting guidelines of APA Style, including page setup, font choices, title page formatting, and running heads. These elements contribute to a professional, organized research paper that meets academic standards.  
+
+The next section will focus on the core principles of writing in APA Style, including clarity, bias-free language, and maintaining a scholarly tone.

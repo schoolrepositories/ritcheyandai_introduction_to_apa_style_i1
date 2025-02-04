@@ -1,0 +1,140 @@
+## Section 7: Citing Online Sources  
+
+### Page 31: Introduction to Citing Online Sources  
+
+With the rise of digital media, many academic papers now include citations from websites, social media, blogs, and online news sources. APA Style provides clear guidelines for citing these sources, ensuring that they are properly credited and accessible to readers.  
+
+Online sources often present unique challenges, such as missing publication dates, anonymous authors, or changing content. APA 7th Edition offers flexible citation rules to address these issues while maintaining clarity and consistency in references.  
+
+This section will cover how to cite:  
+
+- Websites and web pages  
+- Online news articles  
+- Social media posts (Twitter, Facebook, Instagram, LinkedIn, etc.)  
+- YouTube videos and podcasts  
+- Blogs and other digital content  
+
+By following APA’s online citation rules, writers can ensure their sources remain accurate and reliable.  
+
+### Page 32: Citing Websites and Web Pages  
+
+Websites are common sources for research, especially for reports, government data, and educational content. APA distinguishes between referencing an entire website and citing a specific webpage or document.  
+
+#### Citing an Entire Website  
+
+When referring to a website generally (without quoting or paraphrasing specific content), **no reference list entry is needed**. Instead, mention the name of the website in the text.  
+
+Example:  
+*The Centers for Disease Control and Prevention provides extensive health data on chronic diseases (https://www.cdc.gov).*  
+
+#### Citing a Specific Webpage  
+
+A webpage citation requires an author (or organization), publication date, title, and URL.  
+
+**Format:**  
+Author, A. A. or Organization. (Year). *Title of the webpage.* Website Name. URL  
+
+**Example:**  
+World Health Organization. (2021). *Mental health in the workplace.* https://www.who.int/mentalhealthworkplace  
+
+#### No Author or Date  
+
+- If no author is listed, use the organization or website name.  
+- If no date is available, use (n.d.).  
+
+**Example:**  
+Harvard University. (n.d.). *Guide to academic integrity.* https://www.harvard.edu/integrity  
+
+#### Common Mistakes  
+
+- Including “Retrieved from” before the URL (no longer required in APA 7).  
+- Using the homepage URL instead of the specific page URL.  
+- Failing to italicize the webpage title.  
+
+### Page 33: Citing Online News Articles  
+
+Online news articles follow a structure similar to print articles, but they require a retrieval link.  
+
+**Format:**  
+Author, A. A. (Year, Month Day). Title of the article. *Newspaper or News Website Name.* URL  
+
+**Example:**  
+Parker, C. (2022, March 5). Climate change policies gain momentum. *The New York Times.* https://www.nytimes.com/climatechange  
+
+If the article has no author, the title moves to the first position.  
+
+**Example:**  
+*Economic recovery efforts increase in 2023.* (2023, January 10). *BBC News.* https://www.bbc.com/news/economy  
+
+#### Paywalled Articles  
+
+If an article is behind a paywall, cite it as usual but do not provide a direct URL. Instead, list the homepage of the news website.  
+
+Example:  
+Smith, J. (2021, September 12). The future of AI in medicine. *The Wall Street Journal.* https://www.wsj.com  
+
+### Page 34: Citing Social Media Posts  
+
+Social media platforms such as Twitter, Facebook, Instagram, and LinkedIn are frequently used to share research and news. APA provides specific guidelines for citing social media posts.  
+
+#### Twitter and Instagram Posts  
+
+**Format:**  
+Author or Username. (Year, Month Day). Content of the post [Description]. *Platform.* URL  
+
+**Example:**  
+Obama, B. [@BarackObama]. (2020, November 3). It’s time to vote. Let’s make our voices heard. [Tweet]. *Twitter.* https://twitter.com/BarackObama/status/132368  
+
+#### Facebook and LinkedIn Posts  
+
+**Example:**  
+World Health Organization. (2021, May 14). Vaccination is the most effective way to prevent disease. [Facebook post]. *Facebook.* https://www.facebook.com/who/posts/101578  
+
+If the post is long, provide the first 20 words followed by an ellipsis.  
+
+#### Citing Comments on Social Media  
+
+Social media comments can also be cited. Include the commenter’s username and specify it as a comment.  
+
+**Example:**  
+User123. (2021, December 5). That’s an interesting perspective! [Comment on a Facebook post]. *Facebook.* https://facebook.com/who/posts/101578  
+
+### Page 35: Citing YouTube Videos, Podcasts, and Blogs  
+
+#### Citing YouTube Videos  
+
+Videos should be cited with the uploader as the author, followed by the upload date, title, and URL.  
+
+**Format:**  
+Uploader. (Year, Month Day). *Title of the video* [Video]. *YouTube.* URL  
+
+**Example:**  
+NASA. (2021, August 10). *Mars rover landing highlights* [Video]. *YouTube.* https://www.youtube.com/watch?v=abc123  
+
+If the person in the video is relevant, list them as the author.  
+
+#### Citing Podcasts  
+
+For podcasts, include the host’s name, date, episode title, and URL.  
+
+**Format:**  
+Host, A. A. (Year, Month Day). *Title of the episode* (No. Episode Number) [Audio podcast episode]. *Podcast Name.* URL  
+
+**Example:**  
+Harris, S. (2022, January 5). *Understanding consciousness* (No. 45) [Audio podcast episode]. *The Mind Explained.* https://www.podcast.com/mind45  
+
+#### Citing Blogs  
+
+Blogs follow a structure similar to online articles.  
+
+**Format:**  
+Author, A. A. (Year, Month Day). Title of the blog post. *Blog Name.* URL  
+
+**Example:**  
+Jones, K. (2021, June 20). The impact of remote learning on education. *Education Today.* https://www.educationtoday.com/blog/remote-learning  
+
+### Summary  
+
+Citing online sources correctly ensures credibility and accuracy in academic writing. This section covered how to cite websites, news articles, social media posts, videos, podcasts, and blogs.  
+
+The next section will discuss **tables and figures in APA Style**, covering how to format and reference visual data effectively.

@@ -1,0 +1,161 @@
+## Section 4: In-Text Citations  
+
+### Page 16: Introduction to In-Text Citations  
+
+In-text citations are a fundamental component of APA Style. They provide a way for writers to credit the original sources of their information while allowing readers to locate the full references in the reference list. Proper in-text citations ensure academic integrity and help avoid plagiarism by making it clear which ideas come from external sources.  
+
+APA Style uses the **author–date citation system**, where the author's last name and the year of publication are placed within the text. There are two main ways to incorporate in-text citations:  
+
+- **Parenthetical citations**: The author and year appear within parentheses at the end of the sentence.  
+  - Example: *Social media use has been linked to increased anxiety levels (Smith, 2020).*  
+- **Narrative citations**: The author’s name appears as part of the sentence, followed by the year in parentheses.  
+  - Example: *Smith (2020) found that social media use is linked to increased anxiety levels.*  
+
+#### Why Are In-Text Citations Important?  
+
+- They allow readers to verify claims by tracing sources.  
+- They provide credit to original authors and acknowledge their contributions.  
+- They maintain academic integrity by preventing plagiarism.  
+- They ensure credibility by demonstrating that arguments are supported by research.  
+
+This section will explore the proper use of in-text citations in various contexts, including direct quotations, paraphrasing, multiple authors, and secondary sources.  
+
+### Page 17: Parenthetical vs. Narrative Citations  
+
+Both parenthetical and narrative citations are valid in APA Style, but they serve different purposes. Choosing the correct type depends on how the source is integrated into the sentence.  
+
+#### Parenthetical Citations  
+
+- Used when the author is not mentioned in the sentence.  
+- The citation appears at the end of the sentence, inside the parentheses.  
+- The period is placed **after** the closing parenthesis.  
+
+Example 1: *College students who sleep fewer than six hours a night tend to have lower academic performance (Jones, 2018).*  
+
+Example 2: *Several studies have found a correlation between smartphone usage and decreased productivity (Brown & Lee, 2020; Martinez, 2021).*  
+
+#### Narrative Citations  
+
+- Used when the author's name is integrated into the sentence.  
+- The publication year appears in parentheses immediately after the author’s name.  
+
+Example 1: *Jones (2018) found that college students who sleep fewer than six hours a night tend to have lower academic performance.*  
+
+Example 2: *According to Brown and Lee (2020), smartphone usage has been linked to decreased productivity.*  
+
+#### Common Practice vs. Valid APA Writing  
+
+- **Common Practice:** Many students default to parenthetical citations because they are easier to insert.  
+- **Valid but Less Common:** APA encourages a mix of narrative and parenthetical citations to improve readability and engagement.  
+
+Using both types of citations appropriately makes writing more fluid and engaging for the reader.  
+
+### Page 18: Citing Multiple Authors and Group Authors  
+
+#### One Author  
+
+- If a source has one author, cite the last name followed by the year.  
+  - *(Smith, 2019)* or *Smith (2019) found that...*  
+
+#### Two Authors  
+
+- If a source has two authors, use an ampersand (&) in parenthetical citations and “and” in narrative citations.  
+  - *(Taylor & Green, 2021)*  
+  - *Taylor and Green (2021) found that...*  
+
+#### Three or More Authors  
+
+- For three or more authors, use only the first author’s last name followed by "et al."  
+  - *(Johnson et al., 2020)*  
+  - *Johnson et al. (2020) argued that...*  
+
+#### Citing Group Authors  
+
+- When citing an organization, spell out the full name in the first mention, followed by an abbreviation in subsequent mentions.  
+  - *The American Psychological Association (APA, 2020) published updated guidelines.*  
+  - *APA (2020) stated that...*  
+
+#### Example Sentences  
+
+- *Researchers have found that digital distractions impact concentration (Miller et al., 2021).*  
+- *The Centers for Disease Control and Prevention (CDC, 2019) reported a rise in obesity rates.*  
+- *According to the CDC (2019), obesity rates have increased in the past decade.*  
+
+Citing multiple authors correctly ensures clarity and consistency in APA writing.  
+
+### Page 19: Direct Quotations and Paraphrasing  
+
+#### Direct Quotations  
+
+Quoting involves using the exact words from a source. When quoting directly, always include the page number (or paragraph number for online sources without pages).  
+
+- **Short Quotations (fewer than 40 words)**  
+  - Enclose the quote in quotation marks.  
+  - Place the citation after the closing quotation mark.  
+
+Example:  
+*"Social media use has been linked to increased anxiety levels" (Smith, 2020, p. 45).*  
+
+- **Narrative Example**  
+  - *Smith (2020) stated, "Social media use has been linked to increased anxiety levels" (p. 45).*  
+
+- **Block Quotations (40 words or more)**  
+  - Indent the entire quote 0.5 inches.  
+  - Do not use quotation marks.  
+  - Place the citation **after** the final punctuation.  
+
+Example:  
+Smith (2020) found:  
+
+    Social media has significantly altered how individuals communicate and interact.  
+    This shift has led to increased social anxiety, as individuals feel pressured to  
+    maintain an online persona that aligns with societal expectations. (p. 45)  
+
+#### Paraphrasing  
+
+Paraphrasing involves rewording a source’s ideas in the writer’s own words. Unlike direct quotations, paraphrases do not require page numbers, though they can be included.  
+
+Example 1:  
+*Smith (2020) found that excessive social media use contributes to social anxiety.*  
+
+Example 2:  
+*Excessive social media use may increase social anxiety (Smith, 2020).*  
+
+#### Common Mistakes in Paraphrasing  
+
+- **Incorrect:** Changing only a few words from the original text.  
+- **Correct:** Restating the idea completely in new words and sentence structure.  
+
+Bad paraphrase:  
+*"Social media has a big impact on how people talk to each other" (Smith, 2020).*  
+
+Good paraphrase:  
+*Smith (2020) found that social media has changed the way people interact, leading to increased online engagement at the expense of in-person communication.*  
+
+Paraphrasing correctly shows comprehension of the material and avoids unintentional plagiarism.  
+
+### Page 20: Handling Secondary Sources and Missing Information  
+
+#### Citing Secondary Sources  
+
+When citing a source that was quoted in another source, include both authors.  
+
+Example:  
+*Smith (2015) found that sleep deprivation lowers productivity (as cited in Johnson, 2020).*  
+
+#### Missing Information  
+
+- **No Author:** Use the title in place of the author’s name.  
+  - *(“Social Media Use,” 2019)*  
+- **No Date:** Use “n.d.” (no date).  
+  - *(Smith, n.d.)*  
+- **No Page Number:** Use paragraph numbers.  
+  - *(Johnson, 2021, para. 4)*  
+
+Proper citation of secondary sources ensures that credit is given appropriately while maintaining the integrity of academic writing.  
+
+### Summary  
+
+In-text citations are a crucial component of APA writing, ensuring that sources are properly credited while maintaining readability. By understanding parenthetical and narrative citations, handling multiple authors, correctly quoting and paraphrasing, and managing missing information, students can enhance the clarity and credibility of their research papers.  
+
+The next section will cover **how to format reference lists**, including proper structure, spacing, and formatting of different source types.

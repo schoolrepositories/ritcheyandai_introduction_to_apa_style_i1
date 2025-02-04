@@ -1,0 +1,114 @@
+## Section 16: Practical Exercises and Quizzes  
+
+### Page 76: Introduction to Practical Exercises and Quizzes  
+
+Understanding APA Style is one thing, but applying it correctly requires practice. To reinforce learning, this section provides **practical exercises, self-check quizzes, and citation challenges** designed to help students:  
+
+- Recognize **APA formatting errors**  
+- Correct **improper citations**  
+- Improve **reference list organization**  
+- Test their **knowledge of APA Style rules**  
+
+Each exercise is designed to mimic **real-world citation and formatting issues** that students commonly encounter. These activities will help reinforce APA guidelines and prepare students for academic writing.  
+
+### Page 77: Exercise 1 – Identifying and Correcting APA Errors  
+
+#### Instructions:  
+
+Below is a paragraph from a student’s research paper. **Identify at least five APA Style errors** and rewrite the paragraph correctly.  
+
+#### Original Paragraph (Contains APA Errors)  
+
+Social media has been shown to affect mental health (smith, 2020). According to recent studies, individuals who spend over 3 hours daily on social networking sites experience higher anxiety levels. (Garcia and Patel, 2021). However, some researchers argue that the effects of social media use depend on personality traits. Brown, J (2019). found that extraverts experience fewer negative effects. Social media addiction has also been linked to decreased sleep quality (Johnson 2018, p.23).  
+
+#### Errors to Look For:  
+
+- Incorrect **capitalization and formatting** in citations  
+- Missing **commas and ampersands** in multiple-author citations  
+- Incorrect **punctuation placement**  
+- Improper **use of periods** in parenthetical citations  
+- Missing **hanging indent in reference list**  
+
+#### Corrected Paragraph:  
+
+Social media has been shown to affect mental health (Smith, 2020). According to recent studies, individuals who spend over three hours daily on social networking sites experience higher anxiety levels (Garcia & Patel, 2021). However, some researchers argue that the effects of social media use depend on personality traits. Brown (2019) found that extraverts experience fewer negative effects. Social media addiction has also been linked to decreased sleep quality (Johnson, 2018, p. 23).  
+
+### Page 78: Exercise 2 – Formatting an APA Reference List  
+
+#### Instructions:  
+
+Below is a reference list containing **formatting errors**. Identify at least five mistakes and rewrite the list correctly.  
+
+#### Incorrect Reference List  
+
+Brown J (2019). The effects of social media on mental health, *Journal of Psychological Research*, 23(4), 45-67.  
+Garcia, M. and Patel, K. (2021) Social media and anxiety: A review. Psychology Today. Available at: www.psychologytoday.com/social-media-anxiety  
+Johnson, T. (2018). *The impact of social media addiction on sleep quality* University of California Press.  
+
+#### Errors to Look For:  
+
+- Incorrect **punctuation and spacing**  
+- Misuse of **italics** for journal articles vs. book titles  
+- Missing **DOI or URL formatting**  
+- Improper **author name formatting**  
+- Incorrect **journal issue and volume formatting**  
+
+#### Corrected Reference List  
+
+Brown, J. (2019). The effects of social media on mental health. *Journal of Psychological Research, 23*(4), 45–67. https://doi.org/10.xxxx  
+Garcia, M., & Patel, K. (2021). Social media and anxiety: A review. *Psychology Today.* https://www.psychologytoday.com/social-media-anxiety  
+Johnson, T. (2018). *The impact of social media addiction on sleep quality.* University of California Press.  
+
+### Page 79: Quiz – APA Citation and Formatting Rules  
+
+#### Multiple Choice Questions  
+
+1. **Which of the following is the correct format for an in-text citation of a source with three authors?**  
+   a) (Smith, Brown, & Lee, 2020)  
+   b) (Smith, et al, 2020)  
+   c) (Smith et al., 2020)  
+   d) (Smith & Brown & Lee, 2020)  
+
+2. **How should a direct quote be cited if the source has no page number?**  
+   a) Use (Author, Year, p. #)  
+   b) Use (Author, Year, para. #)  
+   c) Use (Author, Year, section #)  
+   d) No citation is needed  
+
+3. **What is the correct APA format for citing a book in the reference list?**  
+   a) Smith, J. (2021). *Psychology and learning* Academic Press.  
+   b) Smith, J. (2021). Psychology and learning. Academic Press.  
+   c) Smith, J. (2021). *Psychology and learning.* Academic Press.  
+   d) Smith, J (2021), Psychology and learning, Academic Press.  
+
+#### Answer Key:  
+1. c) (Smith et al., 2020)  
+2. b) Use (Author, Year, para. #)  
+3. c) Smith, J. (2021). *Psychology and learning.* Academic Press.  
+
+### Page 80: Challenge Activity – Correcting APA-Formatted Paragraphs  
+
+#### Instructions:  
+
+Below is a paragraph with **several APA formatting errors**. Rewrite the paragraph using correct APA Style.  
+
+#### Original Paragraph (Incorrect APA Formatting)  
+
+Research has shown that students who study in quiet environments perform better (James and Lee, 2019). However, the use of background music may not significantly hinder concentration. According to Garcia 2020, "students who listen to instrumental music while studying exhibit similar levels of focus as those in silent environments". (p. 45)  
+
+#### Errors to Fix:  
+
+- Incorrect **author citation format**  
+- Missing **comma in parenthetical citations**  
+- Improper **quotation formatting**  
+- Incorrect **placement of the page number in citations**  
+
+#### Corrected Paragraph:  
+
+Research has shown that students who study in quiet environments perform better (James & Lee, 2019). However, the use of background music may not significantly hinder concentration. According to Garcia (2020), "students who listen to instrumental music while studying exhibit similar levels of focus as those in silent environments" (p. 45).  
+
+### Summary  
+
+This section provided **practical exercises and quizzes** to test and reinforce APA Style knowledge. Through hands-on correction of citation mistakes, formatting errors, and reference list inconsistencies, students can improve their ability to apply APA rules correctly.  
+
+The next section will explore **common mistakes in APA formatting and how to avoid them**, providing detailed guidance on proofreading and finalizing an APA paper.

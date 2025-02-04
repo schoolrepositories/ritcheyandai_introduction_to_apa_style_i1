@@ -1,0 +1,144 @@
+## Section 15: Case Studies in APA Style Usage  
+
+### Page 71: Introduction to Case Studies in APA Style Usage  
+
+Understanding APA formatting is essential for academic writing, but real-world application often presents challenges that require deeper analysis. Case studies provide practical examples of APA Style usage, highlighting **common errors, best practices, and unique scenarios** that students and researchers encounter.  
+
+This section will examine five case studies illustrating:  
+
+- The importance of **proper citation** and **avoiding plagiarism**  
+- How **formatting mistakes** affect readability and compliance  
+- Challenges in citing **non-traditional sources**  
+- Common errors in **reference lists** and **in-text citations**  
+- The impact of **inconsistent APA Style application**  
+
+By reviewing these real-world examples, students can improve their APA proficiency and avoid common pitfalls.  
+
+### Page 72: Case Study 1 – The Consequences of Improper Citation  
+
+#### Background  
+
+John, a graduate student, submitted a research paper on **social media and mental health**. While his paper was well-researched, his professor flagged it for **improper citation**. Some paragraphs lacked in-text citations, while others contained **direct quotations without quotation marks**, making it difficult to determine which ideas were his and which came from other researchers.  
+
+#### Key Errors Identified  
+
+1. **Paraphrasing without citation**  
+   - John summarized research findings but failed to cite the original study.  
+   - Example (Incorrect): *Excessive social media use has been linked to anxiety and depression.*  
+   - Example (Correct): *Excessive social media use has been linked to anxiety and depression (Smith & Lee, 2021).*  
+
+2. **Direct quotes without quotation marks**  
+   - John copied sentences from an article without properly marking them as direct quotes.  
+   - Example (Incorrect): *Researchers found that students who spent more than three hours on social media daily exhibited higher stress levels (Brown, 2020, p. 45).*  
+   - Example (Correct): *"Researchers found that students who spent more than three hours on social media daily exhibited higher stress levels" (Brown, 2020, p. 45).*  
+
+#### Lessons Learned  
+
+- Every paraphrase must be **cited properly** to credit the original author.  
+- Direct quotes must include **quotation marks and page numbers**.  
+- Plagiarism, even if unintentional, can result in severe academic penalties.  
+
+### Page 73: Case Study 2 – Formatting Errors in an APA Research Paper  
+
+#### Background  
+
+Emily, an undergraduate student, submitted a psychology research paper following **APA Style** but received a lower grade due to formatting errors. Her professor provided feedback highlighting multiple APA violations, including:  
+
+1. **Title Page Issues**  
+   - Emily centered her name and course details at the bottom of the page instead of following APA guidelines.  
+   - Example (Incorrect):  
+     - *Title of the Paper*  
+     - *By Emily Johnson*  
+     - *Psychology 101 – Spring 2023*  
+
+   - Correct APA Formatting:  
+     - **Title:** Centered, bolded, and in title case  
+     - **Name, affiliation, course, instructor, and date:** Centered below the title  
+
+2. **Inconsistent Font and Spacing**  
+   - Emily used **single spacing** in some sections and **double spacing** in others.  
+   - APA requires **double spacing throughout the entire document**.  
+
+3. **Improperly Formatted Headings**  
+   - Emily wrote all headings in **bold and all caps**, which is incorrect.  
+   - Correct APA Formatting:  
+     - Level 1: **Bold, centered, title case**  
+     - Level 2: **Bold, left-aligned, title case**  
+
+#### Lessons Learned  
+
+- Proper APA formatting requires consistency across **title pages, headings, and spacing**.  
+- Small formatting mistakes can **affect readability** and **lower academic credibility**.  
+
+### Page 74: Case Study 3 – The Challenges of Citing AI-Generated Content  
+
+#### Background  
+
+Mark, a computer science student, used **ChatGPT** to generate part of his research paper on artificial intelligence. He included AI-generated content but was unsure **how to cite it properly**. His professor asked him to clarify whether AI-generated text should be treated like a standard source.  
+
+#### Key Issues Identified  
+
+1. **AI is a Non-Retrievable Source**  
+   - Since ChatGPT responses are **not retrievable by others**, APA treats them as **personal communications** (i.e., they are cited in-text only, without a reference list entry).  
+
+2. **Incorrect Citation Example**  
+   - Mark initially cited ChatGPT as if it were a published source:  
+     - *(ChatGPT, 2023).*  
+   - However, AI-generated text **does not have a publication date or a stable retrieval link**.  
+
+3. **Correct Citation Format**  
+   - In-text citation for AI-generated content:  
+     - *According to OpenAI’s ChatGPT (personal communication, March 10, 2023), machine learning is advancing rapidly.*  
+
+#### Lessons Learned  
+
+- AI-generated responses are **cited as personal communications** unless they come from a retrievable source.  
+- If citing an AI-generated research report (e.g., an official OpenAI document), provide a **full reference list entry with a retrieval link**.  
+
+### Page 75: Case Study 4 – Errors in Reference Lists and In-Text Citations  
+
+#### Background  
+
+Jessica, a doctoral student, compiled a **literature review** but received feedback that her reference list contained **multiple APA violations**.  
+
+#### Key Issues Identified  
+
+1. **Incorrect Alphabetization**  
+   - Jessica did not alphabetize her reference list correctly.  
+   - APA requires **alphabetical ordering by the first author's last name**.  
+
+   **Incorrect Order:**  
+   - Brown, J. (2020)  
+   - Smith, K. (2019)  
+   - Adams, T. (2021)  
+
+   **Correct Order:**  
+   - Adams, T. (2021)  
+   - Brown, J. (2020)  
+   - Smith, K. (2019)  
+
+2. **DOI and URL Formatting Errors**  
+   - Jessica omitted **DOIs for journal articles**, which are required if available.  
+   - APA requires **DOIs or stable URLs** for online sources.  
+
+   **Incorrect Citation:**  
+   - Smith, R. (2018). The psychology of learning. *Cognitive Research, 12*(3), 45–62.  
+
+   **Correct Citation:**  
+   - Smith, R. (2018). The psychology of learning. *Cognitive Research, 12*(3), 45–62. https://doi.org/10.xxxx  
+
+3. **Incorrect In-Text Citations**  
+   - Jessica cited a source in-text as: *(Smith, J. 2019)* – which incorrectly included a **comma before the year**.  
+   - The correct format is **(Smith, 2019)**.  
+
+#### Lessons Learned  
+
+- Reference lists must be **alphabetized properly**.  
+- **DOIs should always be included** if available.  
+- **In-text citations must follow the correct author-date format**.  
+
+### Summary  
+
+These case studies illustrate common challenges in APA Style, including citation mistakes, formatting errors, and issues with non-traditional sources. By applying best practices and avoiding these errors, students can ensure their research is professionally formatted and academically sound.  
+
+The next section will focus on **proofreading and finalizing APA research papers**, covering best practices for checking citations, formatting, and overall clarity before submission.

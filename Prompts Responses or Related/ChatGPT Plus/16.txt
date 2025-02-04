@@ -1,0 +1,157 @@
+## Section 8: Tables and Figures in APA  
+
+### Page 36: Introduction to Tables and Figures  
+
+Tables and figures are an essential part of academic writing, providing a visual representation of data that enhances the clarity and impact of research findings. APA Style provides specific guidelines for formatting tables and figures to ensure consistency, readability, and proper citation of data sources.  
+
+Tables are used to display numerical data, comparisons, or textual information in a structured format, while figures include graphs, charts, maps, photographs, and other visual materials. Correct formatting ensures that tables and figures are easily understood, properly integrated into the paper, and compliant with APA guidelines.  
+
+This section will cover:  
+
+- General rules for formatting tables and figures  
+- When to use tables vs. figures  
+- Proper labeling and numbering  
+- Citing data sources in tables and figures  
+- Common mistakes to avoid  
+
+By following APA’s recommendations, students can effectively incorporate tables and figures into their research papers.  
+
+### Page 37: General Formatting Rules for Tables and Figures  
+
+#### Placement of Tables and Figures  
+
+- Tables and figures can be placed either **within the text** immediately after they are mentioned or in an **appendix** at the end of the paper.  
+- Each table or figure must be **introduced in the text before it appears**.  
+- If a figure or table is taken from another source, it must include a citation.  
+
+#### Numbering Tables and Figures  
+
+- **Tables are labeled as "Table X" (e.g., Table 1, Table 2, etc.).**  
+- **Figures are labeled as "Figure X" (e.g., Figure 1, Figure 2, etc.).**  
+- Numbering should be **consecutive** throughout the paper.  
+
+#### Title and Notes  
+
+- Each table or figure requires a **descriptive title**, written in **title case** and **italicized**.  
+- A **note** below the table or figure may provide additional details, including explanations of abbreviations, statistical information, or citations for borrowed data.  
+
+Example of a properly formatted table:  
+
+**Table 1**  
+*Student Performance by Study Hours Per Week*  
+
+| Study Hours | Average GPA |  
+|------------|------------|  
+| 0-5        | 2.5        |  
+| 6-10       | 3.0        |  
+| 11-15      | 3.5        |  
+| 16+        | 3.8        |  
+
+**Note.** Data collected from Smith (2021).  
+
+### Page 38: Formatting Tables in APA  
+
+#### Structure of an APA Table  
+
+An APA table consists of three key components:  
+
+1. **Table number**: Bold and aligned to the left (e.g., Table 1).  
+2. **Title**: Italicized and written in title case, placed one double-spaced line below the table number.  
+3. **Table body**: Contains the actual data, formatted neatly with clear column and row labels.  
+4. **Note** (if needed): Placed below the table, explaining any symbols, abbreviations, or additional information.  
+
+#### Guidelines for Formatting  
+
+- Tables should be **centered** on the page.  
+- Column headings should be **bolded** and clearly labeled.  
+- Avoid excessive use of grid lines; use **only horizontal lines** for clarity.  
+- Numeric data should be **aligned to the right**, while text should be **left-aligned**.  
+- All tables should be **double-spaced**.  
+
+#### Example of a Table with a Note  
+
+**Table 2**  
+*Effect of Caffeine on Memory Retention*  
+
+| Caffeine Intake (mg) | Memory Retention Score (%) |  
+|----------------------|---------------------------|  
+| 0                    | 60                        |  
+| 50                   | 70                        |  
+| 100                  | 75                        |  
+| 200                  | 80                        |  
+
+**Note.** Scores represent average retention levels after a 24-hour delay (Jones, 2022).  
+
+### Page 39: Formatting Figures in APA  
+
+Figures include graphs, charts, photographs, and diagrams that visually represent data. Proper formatting ensures that figures are clear, labeled correctly, and easy to interpret.  
+
+#### Components of an APA Figure  
+
+1. **Figure number**: Bold and left-aligned (e.g., Figure 1).  
+2. **Title**: Italicized and in title case, placed below the figure number.  
+3. **Figure image**: The actual graph, chart, or illustration.  
+4. **Note (if applicable)**: Below the figure, providing additional information or citation details.  
+
+#### Guidelines for Formatting Figures  
+
+- Figures should be **centered** and large enough to be readable.  
+- Labels and legends should be **clearly visible**.  
+- Avoid unnecessary decorative elements.  
+- Colors should be used **only if necessary** for clarity.  
+
+#### Example of a Properly Formatted Figure  
+
+**Figure 1**  
+*Increase in Online Learning Enrollment from 2015 to 2022*  
+
+[Insert graph here]  
+
+**Note.** Data from U.S. Department of Education (2022).  
+
+If a figure is taken from another source, a **full citation** must be included in the reference list.  
+
+### Page 40: Citing Data Sources in Tables and Figures  
+
+#### Citing Data from External Sources  
+
+If a table or figure contains data from another source, a citation should be included in the **note below the table or figure**.  
+
+Example:  
+
+**Table 3**  
+*Employment Rates by Education Level*  
+
+| Education Level   | Employment Rate (%) |  
+|------------------|--------------------|  
+| High School     | 75                 |  
+| Bachelor’s      | 85                 |  
+| Master’s        | 90                 |  
+| Doctorate       | 95                 |  
+
+**Note.** Adapted from National Employment Report (2021).  
+
+The full reference should be listed in the reference list:  
+
+National Employment Report. (2021). *Labor force participation trends.* U.S. Department of Labor. https://www.dol.gov/laborreport  
+
+#### Using Your Own Data  
+
+If the data is original, **no citation is needed**. Instead, a note may provide additional clarification.  
+
+Example:  
+
+**Note.** Data collected from a survey of 200 college students in 2022.  
+
+#### Common Errors in Citing Tables and Figures  
+
+- Forgetting to number tables and figures correctly.  
+- Not providing a title or note explaining abbreviations or data sources.  
+- Using too many tables or figures, making the paper visually cluttered.  
+- Forgetting to reference the source in both the note and the reference list.  
+
+### Summary  
+
+Tables and figures help clarify research findings and present data visually. This section covered APA’s formatting guidelines for tables and figures, including numbering, placement, labeling, and citation rules.  
+
+The next section will discuss **academic integrity and APA compliance**, covering plagiarism prevention and ethical writing practices.

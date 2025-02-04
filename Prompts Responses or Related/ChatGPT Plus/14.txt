@@ -1,0 +1,168 @@
+## Section 6: Referencing Books, Articles, and More  
+
+### Page 26: Introduction to Referencing Different Source Types  
+
+Citing sources correctly is a crucial aspect of APA Style. Different types of sources, such as books, journal articles, and websites, require specific citation formats in the reference list. Proper referencing ensures that research is transparent, credible, and verifiable.  
+
+This section will cover how to cite:  
+
+- Books (print and electronic)  
+- Journal articles (with and without DOIs)  
+- Conference papers and proceedings  
+- Dissertations and theses  
+- Reports, white papers, and gray literature  
+
+Each source type follows a structured format, with specific rules for author names, publication years, titles, and retrieval information. This section will explore these rules in detail with examples to illustrate correct formatting.  
+
+### Page 27: Referencing Books  
+
+Books are one of the most commonly cited sources in APA Style. They provide in-depth research and foundational knowledge on many topics. A basic book citation includes the author's name, publication year, title, and publisher.  
+
+#### Format for a Print Book  
+
+Author, A. A. (Year). *Title of the book.* Publisher.  
+
+#### Example  
+
+Doe, J. (2020). *Introduction to psychology.* Academic Press.  
+
+#### Format for an E-Book  
+
+Author, A. A. (Year). *Title of the book.* Publisher. URL or DOI  
+
+#### Example  
+
+Smith, R. T. (2019). *The science of memory.* Springer. https://doi.org/10.xxxx  
+
+If an e-book is accessed through a general database, a URL is not required. If accessed from an open-access website, the URL should be included.  
+
+#### Edited Books  
+
+An edited book is a collection of chapters written by different authors, with an editor overseeing the compilation.  
+
+Format:  
+
+Editor, A. A. (Ed.). (Year). *Title of the book.* Publisher.  
+
+Example:  
+
+Miller, T. K. (Ed.). (2021). *Advances in cognitive research.* Wiley.  
+
+#### Chapter in an Edited Book  
+
+When citing a specific chapter written by an author in an edited book, the format changes slightly.  
+
+Format:  
+
+Author, A. A. (Year). Title of the chapter. In E. Editor (Ed.), *Title of the book* (pp. xx-xx). Publisher.  
+
+Example:  
+
+Garcia, L. (2018). The role of memory in decision-making. In J. T. Brown (Ed.), *Cognitive science and behavior* (pp. 45-67). Oxford University Press.  
+
+### Page 28: Referencing Journal Articles  
+
+Journal articles are critical sources in academic research because they provide peer-reviewed studies and recent findings. APA Style distinguishes between articles with DOIs and those without.  
+
+#### Format for a Journal Article with a DOI  
+
+Author, A. A., & Author, B. B. (Year). Title of the article. *Title of the Journal, Volume*(Issue), Page range. DOI  
+
+#### Example  
+
+Johnson, H. R., & Patel, K. (2020). The effects of mindfulness on student performance. *Journal of Educational Psychology, 45*(2), 89-105. https://doi.org/10.xxxx  
+
+#### Format for a Journal Article Without a DOI  
+
+Author, A. A., & Author, B. B. (Year). Title of the article. *Title of the Journal, Volume*(Issue), Page range. URL (if available)  
+
+#### Example  
+
+Lee, S. Y. (2019). Virtual learning environments and student engagement. *Higher Education Studies, 12*(4), 150-168. https://www.examplejournal.com/article123  
+
+If the journal is available only in print, the citation does not include a DOI or URL.  
+
+#### Articles with More than 20 Authors  
+
+For journal articles with 21 or more authors, list the first 19 authors, insert an ellipsis, and then include the final author’s name.  
+
+Example:  
+
+Harris, M. K., Wilson, J., … Thompson, R. A. (2021). Effects of social interaction on cognitive flexibility. *Neuroscience Research, 29*(3), 200-215. https://doi.org/10.xxxx  
+
+### Page 29: Referencing Conference Papers, Theses, and Dissertations  
+
+Academic research often includes conference papers and unpublished theses or dissertations. Each of these requires specific formatting in APA Style.  
+
+#### Conference Papers and Proceedings  
+
+Conference papers may be published in a proceedings book or an online repository.  
+
+Format:  
+
+Author, A. A. (Year). Title of the paper. In E. Editor (Ed.), *Title of proceedings* (pp. xx-xx). Publisher. DOI or URL  
+
+Example:  
+
+Martin, R. L. (2019). AI and cognitive development. In J. S. Anderson (Ed.), *Proceedings of the International Cognitive Science Conference* (pp. 88-102). Springer. https://doi.org/10.xxxx  
+
+If the paper is unpublished, include details about the conference but omit the publisher.  
+
+#### Theses and Dissertations  
+
+Published and unpublished theses or dissertations follow different formats.  
+
+**Published Thesis or Dissertation**  
+
+Author, A. A. (Year). *Title of the dissertation* (Publication No.). University Name. Database or URL  
+
+Example:  
+
+Stevens, K. J. (2017). *Memory recall in aging populations* (No. 123456). University of California. ProQuest Dissertations & Theses.  
+
+**Unpublished Thesis or Dissertation**  
+
+Author, A. A. (Year). *Title of the dissertation* (Unpublished doctoral dissertation or master's thesis). University Name.  
+
+Example:  
+
+Nguyen, P. H. (2020). *Cultural influences on language acquisition* (Unpublished doctoral dissertation). University of Toronto.  
+
+### Page 30: Referencing Reports, White Papers, and Other Sources  
+
+Reports, white papers, and other forms of gray literature require different citation formats based on whether they are authored by individuals or organizations.  
+
+#### Government and Organizational Reports  
+
+Author or Organization. (Year). *Title of the report* (Report No. if available). Publisher. URL  
+
+Example:  
+
+World Health Organization. (2021). *Global health statistics 2021* (Report No. 789). https://www.who.int/reports/globalhealth2021  
+
+If the organization is also the publisher, list the organization as the author and omit the publisher name.  
+
+#### White Papers and Technical Reports  
+
+These are often produced by research institutions or think tanks.  
+
+Format:  
+
+Author, A. A. (Year). *Title of the white paper.* Organization. URL  
+
+Example:  
+
+Rand Corporation. (2018). *The future of artificial intelligence in healthcare.* https://www.rand.org/research/AI-healthcare  
+
+#### Common Mistakes in Referencing  
+
+- Omitting the DOI for journal articles when available  
+- Failing to italicize book and journal titles  
+- Listing incorrect capitalization (only the first word and proper nouns should be capitalized in article and book titles)  
+- Including retrieval dates for sources that do not require them  
+
+### Summary  
+
+This section covered how to reference different source types, including books, journal articles, conference papers, theses, and reports. Understanding these formats ensures accuracy in citations and maintains academic integrity.  
+
+The next section will provide **guidelines for citing online sources, social media, and other digital materials**, which are increasingly common in academic writing.

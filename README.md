@@ -1,1 +1,3 @@
-# ritcheyandai_introduction_to_apa_style_i1
+# Readme
+
+This file is here for compatibility purposes. Read "/About.txt" instead.
