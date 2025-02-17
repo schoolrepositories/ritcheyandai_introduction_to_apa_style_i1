@@ -3,15 +3,15 @@ Read NOTICE.md!!!
 # About
 
 NAME: Ritchey & AI Introduction to APA Style
-VERSION: 0.1
+VERSION: 0.2
 IMPLEMENTATION: 1
-LONG IDENTIFIER: Ritchey & AI Introduction to APA Style i1 v0.1
-SHORT IDENTIFIER: R&AITASi1v0.1
+LONG IDENTIFIER: Ritchey & AI Introduction to APA Style i1 v0.2
+SHORT IDENTIFIER: R&AITASi1v0.2
 AUTHOR: James Daniel Marrs Ritchey
 
 ## Overview
 
-Ritchey & AI Introduction to APA Style is the source material for the ebook Introduction to APA Style. The exported book is stored in "/content/Introduction to APA Style v0.1.pdf", but the build.php script can be used to rebuild the PDF from the source materials.
+Ritchey & AI Introduction to APA Style is the source material for the ebook Introduction to APA Style. The exported book is stored in "/content/Introduction to APA Style v0.2.pdf", but the build.php script can be used to rebuild the PDF from the source materials.
 
 ## Licensing
 
@@ -22,6 +22,7 @@ This project is hereby licensed under the Ritchey Permissive License v19.
 Releases:
 - Project started February 3, 2024.
 - Version 0.1 completed February 4, 2025.
+- Version 0.2 completed February 17, 2025.
 
 Highlighted Changes:
 - 
@@ -29,8 +30,7 @@ Highlighted Changes:
 ## Notes
 
 Technical:
-- The book has some formatting issues related to limitations in the build tool.
 - The build script requires Chromium web browser to be installed, and accessible at the expected path.
 
 Other:
-- 
+- The book has some formatting issues, or places where formatting is missing. Especially in regards to text that needs to be bolded, italicized, or underlined.

@@ -1,3 +1,5 @@
+/* Set "preserve_empty_lines" to FALSE */
+
 /* Any imported fonts need to be declared at the top of the CSS document */
 
 /* Open Sans. Source: https://fonts.google.com/specimen/Open+Sans/about */
@@ -16,11 +18,12 @@ body {
 */
 
 /* Noto Serif. Source: https://fonts.google.com/noto/specimen/Noto+Serif/about */
-
+/*
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
 body {
 	font-family: 'Noto Serif', serif; 
 }
+*/
 
 
 /* Sans-serif */
@@ -45,18 +48,32 @@ body {
 	font-family: 'Inclusive Sans', sans-serif;
 }
 */
+
+/* Source Serif 4. Source: https://fonts.google.com/specimen/Source+Serif+4/about */
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&display=swap');
+body {
+	font-family: 'Source Serif 4', serif;
+}
  
 body {
 	font-size: 16px;
 	margin: 0px;
+	background-color: #FFFFFF;
 }
 
 /* This sets a default margin for the top and bottom of each page for printing, but the tool used to print may choose whether to honor it. In Firefox use "Default" margins to honor it. */
 @page {
 	margin-top: 25px;
-	margin-bottom: 25px;	
+	margin-bottom: 25px;
+	
+	margin-left: 0px;
+	margin-right: 0px;
 }
-
+/* This works for Chrome, but not currently in Firefox, because Mozilla hasn't implemented this pseudo class yet for @page. As a result, the first page will still have @page properties. */
+@page :first {
+	margin: 0px;
+}
 
 .page_heading {
 	position: fixed;
@@ -67,17 +84,21 @@ body {
 	color: #fff;
 	font-size: 2px;
 	text-align: left;
+	display: none;
 }
+
 .page_footer {
 	position: fixed;
+	color: #fff;
 	bottom: 0;
 	min-height: 1px;
 	right: 0;
 	z-index: 2;
-	color: #fff;
 	font-size: 2px;
 	text-align: left;
+	display: none;
 }
+
 
 a:link {
   color: #072cf0;
@@ -121,7 +142,58 @@ a:active {
 	margin-right: auto;
 }
 
+/* 
 .outter_h2 {
+	background-color: #FFFFFF;
+	color: #b15472;
+	margin: 0px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	padding: 0px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.inner_h2 {
+	font-size: 40px;
+	text-decoration: none;
+	font-weight: bolder;
+	max-width: 90%;
+	min-width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+}
+*/
+
+.outter_h2 {
+	background-color: #FFFFFF;
+	color: #FFFFFF;
+	margin: 0px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	padding: 0px;
+	padding-left: 5%;
+	padding-right: 5%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+@media print {
+   .outter_h2 {
+  		page-break-after: always;
+  	}
+}
+.inner_h2 {
+	font-size: 40px;
+	text-decoration: none;
+	font-weight: bolder;
+	display: inline-block;
+	background-color: #2d2828;
+	padding-left: 8px;
+	padding-right: 8px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.outter_h3 {
 	background-color: #FFFFFF;
 	color: #333333;
 	margin: 0px;
@@ -131,7 +203,7 @@ a:active {
 	padding-top: 5px;
 	padding-bottom: 5px;
 }
-.inner_h2 {
+.inner_h3 {
 	font-size: 30px;
 	font-weight: bolder;
 	border-bottom-color: #bfbfbf;
@@ -143,7 +215,7 @@ a:active {
 	margin-right: auto;
 }
 
-.outter_h3 {
+.outter_h4 {
 	background-color: #FFFFFF;
 	margin: 0px;
 	margin-bottom: 10px;
@@ -152,9 +224,9 @@ a:active {
 	padding-top: 5px;
 	padding-bottom: 5px;
 }
-.inner_h3 {
+.inner_h4 {
 	font-size: 24px;
-	font-weight: lighter;
+	/* font-weight: lighter;  While using the current font.*/
 	color: #111111;
 	text-decoration: none;
 	max-width: 90%;
@@ -163,7 +235,7 @@ a:active {
 	margin-right: auto;
 }
 
-.outter_h4 {
+.outter_h5 {
 	background-color: #FFFFFF;
 	margin: 0px;
 	margin-bottom: 10px;
@@ -172,11 +244,15 @@ a:active {
 	padding-top: 5px;
 	padding-bottom: 5px;
 }
-.inner_h4 {
+.inner_h5 {
 	font-size: 18px;
-	color: #000000;
+	color: #a8a8a8;
+	border-left-color: #a8a8a8;
+	border-left-width: 6px;
+	border-left-style: double;
 	font-weight: bold;
 	text-decoration: none;
+	padding-left: 5px;
 	max-width: 90%;
 	min-width: 90%;
 	margin-left: auto;
@@ -271,12 +347,14 @@ a:active {
 	margin-right: auto;
 }
 
+
 .outter_blockmessage {
 	background-color: #FFFFFF;
 	color: #928fb9;
 	margin: 0px;
 	padding: 0px;
 }
+
 .inner_blockmessage {
 	/* background-color: #F4E93F; */
 	background-color: #E0EFFF;
@@ -662,8 +740,7 @@ a:active {
 	background-color: #FFFFFF;
 	margin: 0px;
 	padding: 0px;
-	
-	/* margin-top: 90vh; */
+	margin-top: 90vh;
 }
 .inner_separator {
 	border-bottom-style: dotted;
@@ -676,16 +753,20 @@ a:active {
 	margin-left: auto;
 	margin-right: auto;
 }
-/* @media print {
+@media print {
    .outter_separator {
   		display: inline;
+  		display: block;
   		margin-top: 0px;
   		page-break-after: always;
   	}
   	.inner_separator {
 		display:none;  	
   	}
-} */
+}
+#outter_7 {
+	display: none;
+}
 
 .image {
 	display: inline-block;
@@ -696,192 +777,130 @@ a:active {
 	padding-top: 25px;
 }
 
-/* Contact Information = 78b65d571dbed57aed3047c8f0448712 */
-.inner_fl[data-marker-md5="78b65d571dbed57aed3047c8f0448712"] .fl_entry:nth-child(-n+8) {
-	border-width: 0px;
-	margin-right: 10px;
-	margin-top: 0px;
-	display: inline-block;
-	color: #000000;
-	background-color: #FFFFFF;
-	padding: 0px;
+/* Title Section */
+[data-marker-md5="d41d8cd98f00b204e9800998ecf8427e"] {
+	display: none;
 }
 
-.inner_fl[data-marker-md5="78b65d571dbed57aed3047c8f0448712"] .fl_entry:nth-child(1) {
-	text-align: left;
+/* Cover Sections */
+[data-marker-md5="e81b860644ea0efb666e71ee3c333606"] {
+	display: none;
 }
-.inner_fl[data-marker-md5="78b65d571dbed57aed3047c8f0448712"] .fl_entry:nth-child(2) {
-	text-align: center;
-}
-.inner_fl[data-marker-md5="78b65d571dbed57aed3047c8f0448712"] .fl_entry:nth-child(3) {
-	text-align: right;
-}
-
-.inner_fl[data-marker-md5="78b65d571dbed57aed3047c8f0448712"] .fl_entry {
-	border-width: 0px;
-	margin-right: 10px;
-	margin-top: 0px;
-	display: inline-block;
-	color: #000000;
-	background-color: #FFFFFF;
-	padding: 0px;
-}
-.outter_fl[data-marker-md5="78b65d571dbed57aed3047c8f0448712"] {
-	background-color: #FFFFFF;
-	margin: 0px;
-	padding: 0px;
-	margin-top: 10px;
-	margin-bottom: 10px;
-}
-.inner_fl[data-marker-md5="78b65d571dbed57aed3047c8f0448712"] {
-	font-size: 16px;
-	font-weight: normal;
-	text-decoration: none;
-	display: grid;
-	grid-template-columns: repeat(3, 1fr);
-	max-width: 90%;
-	min-width: 90%;
-	margin-left: auto;
-	margin-right: auto;
-}
-
-/* Links Section */
-.inner_fl[data-marker-md5="ad83137b874f09291c524ecb8238a3d3"] .fl_entry {
-	border-width: 0px;
-	margin-right: 20px;
-	margin-top: 0px;
-	padding: 5px;
-	display: inline-block;
-	color: #000000;
-	border-bottom-color: #a6b2ec;
-	border-bottom-width: 3px;
-	border-bottom-style: dotted;
-	background-color: #FFFFFF;
-}
-.outter_fl[data-marker-md5="ad83137b874f09291c524ecb8238a3d3"] {
-	background-color: #FFFFFF;
-	margin: 0px;
-	padding: 0px;
-	margin-top: 10px;
-	margin-bottom: 10px;
-}
-.inner_fl[data-marker-md5="ad83137b874f09291c524ecb8238a3d3"] {
-	font-size: 16px;
-	font-weight: normal;
-	text-decoration: none;
-	margin-left: auto;
-	margin-right: auto;
-}
-.fl_entry a:link {
-  color: #072cf0;
-  text-decoration: none;
-}
-.fl_entrya:visited {
-  color: #072cf0;
-  text-decoration: none;
-}
-.fl_entrya:hover {
-  color: #072cf0;
-  text-decoration: none;
-}
-.fl_entrya:active {
-  color: #072cf0;
-  text-decoration: none;
+[data-marker-md5="69738959040b088631c789a9fefe9e41"] {
+	display: none;
 }
 
 
-/* Education Section */
-.outter_h3[data-marker-md5="417ff36ec30e5abbe60aa858f1638f70"] {
+@media only screen and (orientation: landscape), only print and (orientation: landscape) {
+	.outter_h2[data-marker-md5="69738959040b088631c789a9fefe9e41"] {
+		display: none;
+	}
+	.outter_default[data-marker-md5="69738959040b088631c789a9fefe9e41"] {
+		margin: 0px;
+		padding: 0px;
+		min-width: 100%;
+		display: block;
+	}
+	.inner_default[data-marker-md5="69738959040b088631c789a9fefe9e41"] {
+		min-width: 100%;
+		margin: 0px;
+		padding: 0px;
+		display: block;
+	}
+	.extra_default[data-marker-md5="69738959040b088631c789a9fefe9e41"] {
+		min-width: 100%;
+		margin: 0px;
+		padding: 0px;
+		display: block;
+	}
+	.inner_default[data-marker-md5="69738959040b088631c789a9fefe9e41"] .image {
+		max-width: 100%;
+		min-width: 100%;
+		min-height: 100vh;
+		max-height: 100vh;
+		padding-bottom: 0px;
+		padding-top: 0px;
+		display: inline-block;
+	}
+	[data-marker-md5="e81b860644ea0efb666e71ee3c333606"] {
+		display: none;
+	}
+}
+
+@media only screen and (orientation: portrait), only print and (orientation: portrait) {
+	.outter_h2[data-marker-md5="e81b860644ea0efb666e71ee3c333606"] {
+		display: none;
+	}
+	.outter_default[data-marker-md5="e81b860644ea0efb666e71ee3c333606"] {
+		margin: 0px;
+		padding: 0px;
+		min-width: 100%;
+		display: block;
+	}
+	.inner_default[data-marker-md5="e81b860644ea0efb666e71ee3c333606"] {
+		min-width: 100%;
+		margin: 0px;
+		padding: 0px;
+		display: block;
+	}
+	.extra_default[data-marker-md5="e81b860644ea0efb666e71ee3c333606"] {
+		min-width: 100%;
+		margin: 0px;
+		padding: 0px;
+		display: block;
+	}
+	.inner_default[data-marker-md5="e81b860644ea0efb666e71ee3c333606"] .image {
+		max-width: 100%;
+		min-width: 100%;
+		min-height: 100vh;
+		max-height: 100vh;
+		padding-bottom: 0px;
+		padding-top: 0px;
+		display: inline-block;
+	}
+	[data-marker-md5="69738959040b088631c789a9fefe9e41"] {
+		display: none;
+	}
+}
+
+/* h2s that shouldn't page break */
+@media print {
+	/* title h2 */
+   .outter_h2[data-marker-md5="fa0736c9d02bcbdce39c06ec98c2e658"] {
+   	display: block;
+  		page-break-after: initial;
+  	}
+  	/* Index h2 */
+  	.outter_h2[data-marker-md5="a7b76511ad734755899f781f03ab8a17"] {
+  		display: block;
+  		page-break-after: initial;
+  	}
+}
+
+/* Glossary Section */
+.outter_h3[data-marker-md5="0bd2c6cd0ecb9fd64acebb7c30c6ccc0"] {
 	margin-bottom: 0px;
 	padding-bottom: 0px;
+	padding-top: 0px;
 }
-.inner_h3[data-marker-md5="417ff36ec30e5abbe60aa858f1638f70"] {
+.inner_h3[data-marker-md5="0bd2c6cd0ecb9fd64acebb7c30c6ccc0"] {
    font-size: 20px;
 	color: #000000;
 	font-weight: bold;
 	text-decoration: none;
 	margin-bottom: 0px;
-	padding-bottom: 0px;
+	padding-bottom: 10px;
 }
 
-/* Certifications & Licenses */
-.outter_h3[data-marker-md5="0d783bf9e2505a0d60c7c601d359f805"] {
-	margin-bottom: 0px;
-	padding-bottom: 0px;
+/* Index */
+.inner_le2[data-marker-md5="a7b76511ad734755899f781f03ab8a17"] .list_dot {
+	display: none;
 }
-.inner_h3[data-marker-md5="0d783bf9e2505a0d60c7c601d359f805"] {
-   font-size: 20px;
-	color: #000000;
-	font-weight: bold;
-	text-decoration: none;
-	margin-bottom: 0px;
-	padding-bottom: 0px;
-}
-
-/* Professional Development */
-.outter_h4[data-marker-md5="43884684bbfa41784b57e4d4806162c5"] {
-	margin-bottom: 0px;
-}
-.inner_h4[data-marker-md5="43884684bbfa41784b57e4d4806162c5"] {
-	margin-bottom: 0px;
-	margin-top: 15px;
-}
-.inner_fl[data-marker-md5="43884684bbfa41784b57e4d4806162c5"] .fl_entry {
-	border-width: 0px;
-	margin-right: 20px;
-	margin-top: 0px;
-	padding: 5px;
-	display: inline-block;
-	color: #000000;
-	border-bottom-color: #CCCCCC;
-	border-bottom-width: 3px;
-	border-bottom-style: dotted;
-	background-color: #FFFFFF;
-}
-.outter_fl[data-marker-md5="43884684bbfa41784b57e4d4806162c5"] {
-	background-color: #FFFFFF;
-	margin: 0px;
-	padding: 0px;
-	margin-top: 10px;
-	margin-bottom: 10px;
-}
-.inner_fl[data-marker-md5="43884684bbfa41784b57e4d4806162c5"] {
-	font-size: 16px;
-	font-weight: normal;
-	text-decoration: none;
-	margin-left: auto;
-	margin-right: auto;
-}
-
-
-/* Work Experience */
-.outter_h3[data-marker-md5="ede2ff5f6224579099735ad98261453b"] {
-	margin-bottom: 0px;
-	padding-bottom: 0px;
-}
-.inner_h3[data-marker-md5="ede2ff5f6224579099735ad98261453b"] {
-   font-size: 20px;
-	color: #000000;
-	font-weight: bold;
-	text-decoration: none;
-	margin-bottom: 0px;
-	padding-bottom: 0px;
+.inner_le2[data-marker-md5="a7b76511ad734755899f781f03ab8a17"] {
+	
 }
 
 /*  */
-[data-md5="inner_4d611277231c5b496a83a637c2b67b19"]{
-	font-size: 20px;
-	color: #000000;
-	font-weight: bold;
+[data-md5="00000000000000000000000000"]{
+	background-color: red;
 }
-
-
-
-
-
-
-
-
-
-
-

@@ -46,7 +46,7 @@ This is some text with a special comment (PREFERRED) in it. This is an additiona
 
 ###### Heading 6
 
-More text goes here. This {next part}(https://example.com/1) is also a hyperlink. As is {this part}(https://example.com/2) too.
+More text goes here. This {next part}(https://example.com/1) is also a hyperlink. As is {this part}(https://example.com/2) too. {This text however is bold}(Bold). {This text is in italics}(Italics). Lastly, {this is some text that is underlined}(Underlined).
 
 Item 1 | Item 2 | Item 3 | Item 4
 

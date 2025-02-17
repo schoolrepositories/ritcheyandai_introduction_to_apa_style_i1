@@ -1,17 +1,17 @@
 <?php
 # Meta
 /*
-Name: Ritchey Markup To HTML i1 v22
+Name: Ritchey Markup To HTML i1 v23
 Description: Convert text (marked using a custom markup language) to HTML. Returns "TRUE" on success. Returns "FALSE" on failure.
 Notes:
 - Optional arguments can be "NULL" to skip them in which case they will use default values.
 - The HTML document produced does not follow common design practices, because it is intended for viewing as a document, not for serving as a website.
-Arguments: 'source_file' (required) is the file to read from. 'destination_file' (required) the path of where to write the HTML file. 'css_file' (optional) is a path to a css file import into the HTML. 'overwrite' (optional) specifies whether it's okay to write over the destination_file, if it already exists. 'display_errors' (optional) indicates if errors should be displayed.
-Arguments (Script Friendly): source_file:file:required,destination_file:file:required,css_file:file:optional,overwrite:bool:optional,display_errors:bool:optional
+Arguments: 'source_file' (required) is the file to read from. 'destination_file' (required) the path of where to write the HTML file. 'css_file' (optional) is a path to a css file import into the HTML. 'preserve_empty_lines' (optional) specifies whether to preserve empty lines, or ignore them. 'overwrite' (optional) specifies whether it's okay to write over the destination_file, if it already exists. 'display_errors' (optional) indicates if errors should be displayed.
+Arguments (Script Friendly): source_file:file:required,destination_file:file:required,css_file:file:optional,preserve_empty_lines:bool:optional,overwrite:bool:optional,display_errors:bool:optional
 */
 # Content
-if (function_exists('ritchey_markup_to_html_i1_v22') === FALSE){
-function ritchey_markup_to_html_i1_v22($source_file, $destination_file, $css_file = NULL, $overwrite = NULL, $display_errors = NULL){
+if (function_exists('ritchey_markup_to_html_i1_v23') === FALSE){
+function ritchey_markup_to_html_i1_v23($source_file, $destination_file, $css_file = NULL, $preserve_empty_lines = NULL, $overwrite = NULL, $display_errors = NULL){
 	$errors = array();
 	$location = realpath(dirname(__FILE__));
 	if (@is_file($source_file) === FALSE){
@@ -39,6 +39,15 @@ function ritchey_markup_to_html_i1_v22($source_file, $destination_file, $css_fil
 		// Do nothing
 	} else {
 		$errors[] = "overwrite";
+	}
+	if ($preserve_empty_lines === NULL){
+		$preserve_empty_lines = TRUE;
+	} else if ($preserve_empty_lines === TRUE){
+		// Do nothing
+	} else if ($preserve_empty_lines === FALSE){
+		// Do nothing
+	} else {
+		$errors[] = "preserve_empty_lines";
 	}
 	if ($display_errors === NULL){
 		$display_errors = FALSE;
@@ -75,7 +84,16 @@ function ritchey_markup_to_html_i1_v22($source_file, $destination_file, $css_fil
 				$value = '';
 			// Remove empty lines
 			} else if (trim($value) === '' and $switch1 === FALSE){
-				$value = '';
+				if ($preserve_empty_lines === TRUE){
+					$formatted_value = $html_div_format;
+					$formatted_value['content'] = '';
+					$formatted_value['outter_ids'] = " id='outter_{$line}' class='outter_empty_line' data-md5='outter_{$md5}' data-marker-md5='{$marker_md5}'";
+					$formatted_value['extra_ids'] = " id='extra_{$line}' class='extra_empty_line' data-md5='extra_{$md5}' data-marker-md5='{$marker_md5}'";
+					$formatted_value['inner_ids'] = " id='inner_{$line}' class='inner_empty_line' data-md5='inner_{$md5}' data-marker-md5='{$marker_md5}'";
+					$value = implode($formatted_value);
+				} else {
+					$value = '';
+				}
 			// Add heading elements
 			} else if (substr($value, 0, 1) === '#'  and $switch1 === FALSE){
 				// Process level 1 headings
@@ -291,6 +309,20 @@ function ritchey_markup_to_html_i1_v22($source_file, $destination_file, $css_fil
 				};
 				$value = preg_replace_callback($pattern, $replacement, $value);
 			}
+			// Replace bold, italic, or underlined text
+			if (preg_match('/\{[^}]+\}\((Bold|Italics|Underlined)\)/', $value) === 1 and strpos($value, '02fc208ce1cb8a08bb5b18ed8a2b6141879d0900bd3f269bb417228f79e0c0be_no_processing') === FALSE) {
+				$pattern = '/\{[^}]+\}\((Bold|Italics|Underlined)\)/';
+				$replacement = function ($matches) {
+					$parts = explode('}(', $matches[0]);	
+					$uuid = preg_replace("/[^A-Za-z0-9 ]/", '', substr($parts[1], 0, -1));
+					$uuid = preg_replace("/ /", '_', $uuid);
+					$uuid = trim($uuid);
+					$uuid = strtolower($uuid);
+					$matches[0] = "<span class='" . 'text_style_' . $uuid . "'>" . substr($parts[0], 1) . '</span>';
+					return $matches[0];
+				};
+				$value = preg_replace_callback($pattern, $replacement, $value);
+			}
 			// Replace PNG Images
 			if (preg_match('/\([a-z0-9_]+\.png\)/', $value) === 1 and strpos($value, '02fc208ce1cb8a08bb5b18ed8a2b6141879d0900bd3f269bb417228f79e0c0be_no_processing') === FALSE) {
 				$pattern = '/\([a-z0-9_]+\.png\)/';
@@ -365,12 +397,12 @@ HEREDOC;
 	if ($display_errors === TRUE){
 		if (@empty($errors) === FALSE){
 			$message = @implode(", ", $errors);
-			if (function_exists('ritchey_markup_to_html_i1_v22_format_error') === FALSE){
-				function ritchey_markup_to_html_i1_v22_format_error($errno, $errstr){
+			if (function_exists('ritchey_markup_to_html_i1_v23_format_error') === FALSE){
+				function ritchey_markup_to_html_i1_v23_format_error($errno, $errstr){
 					echo $errstr;
 				}
 			}
-			set_error_handler("ritchey_markup_to_html_i1_v22_format_error");
+			set_error_handler("ritchey_markup_to_html_i1_v23_format_error");
 			trigger_error($message, E_USER_ERROR);
 		}
 	}
